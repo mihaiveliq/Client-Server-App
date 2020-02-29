@@ -1,4 +1,4 @@
-# Client-Server-App
+# Aplicatie client-server TCP si UDP pentru gestionarea mesajelor
 
 Observatii generale:
     Dinamica programului este urmatoarea:
